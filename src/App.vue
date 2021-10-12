@@ -1,5 +1,4 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="Hellow Vue.js" text="tutorial" />
 </template>
 
@@ -14,4 +13,4 @@ export default {
 };
 </script>
 
-<style src="./style.css"></style>
+<style src="./style.css" />
